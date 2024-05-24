@@ -77,6 +77,10 @@ img {
   margin-bottom: 1.5rem;
 }
 
+.section__other__height {
+  height: 100vh;
+}
+
 .section__height {
   height: 20vh;
 }
